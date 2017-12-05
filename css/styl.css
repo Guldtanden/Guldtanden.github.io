@@ -216,5 +216,7 @@ h3 {
 
 .center
 {
-	text-align: center;
+	align-content: center;
+	margin-left: 36%;
+	margin-top: 5px;
 }
